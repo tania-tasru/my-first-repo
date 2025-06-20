@@ -69,3 +69,27 @@ Enter the number: 3
 ## Author
 
 Created as part of learning Python loops and pattern printing. Feel free to modify and experiment!
+
+
+#  Basic Problem Solving with Python
+
+This repository contains beginner-friendly Python scripts that demonstrate simple problem-solving techniques using functions. Great for practice and early learning.
+
+---
+
+## 📌 Features
+
+- ✅ Leap Year Checker
+- ✅ Word Counter
+- ✅ Vowel Counter
+- ✅ Duplicate Remover
+- ✅ Fibonacci Series Generator
+
+---
+
+## ▶️ How to Run
+
+Make sure you have Python installed. Then run:
+
+```bash
+basic_problem_solving.py
